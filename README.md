@@ -1,5 +1,5 @@
 # Lexical-Analyzer
-Lexical analyzer for small programming language
+Lexical analyzer for simple programming language
 
 Based on the language definitions, the lexical rules of the language and the assigned tokens to terminals are as follows:
 
